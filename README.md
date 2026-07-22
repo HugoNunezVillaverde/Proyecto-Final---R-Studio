@@ -1,7 +1,7 @@
 # Pobreza e ingresos de los hogares en el Perú: un Análisis Exploratorio de Datos con ENAHO 2025
 
-**Proyecto Final — Curso R Studio**
-**Autor:** Huguito
+**Proyecto Final — Ofimática Módulo IV: RStudio**
+**Autor:** Hugo Raúl Nuñez Villaverde
 
 ---
 
